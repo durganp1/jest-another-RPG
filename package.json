@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durganp1/jest-another-RPG.git"
+  },
+  "author": "durganp1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durganp1/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/durganp1/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
