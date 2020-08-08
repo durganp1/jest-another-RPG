@@ -2,6 +2,7 @@
 
 const Enemy = require('../lib/Enemy.js');
 const Potion = require('../lib/Potion.js');
+const Character = require('../lib/Character');
 
 jest.mock('../lib/Potion.js');
 
